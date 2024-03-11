@@ -42,3 +42,6 @@ The Sample Superstore Dashboard is a Power BI project designed to provide insigh
 
 5. **Seasonal Trends:**
    - Identify any seasonal trends or patterns in sales data to optimize marketing efforts.
+
+ ![My sample superstore report ss](https://github.com/RaveenaSoyal/Sample-Superstore-Dashboard/assets/162892512/5c553a30-5bff-464b-87fa-7685dc92528f)
+ 
